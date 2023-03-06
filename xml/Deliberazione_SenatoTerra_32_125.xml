@@ -85,8 +85,8 @@
   </teiHeader>
   <facsimile>
     <surface type="it">
-      <graphic xml:id="SenatoTerra_32_01" url="/imgs/Delibera/SenatoTerra_32_01.jpg"/>
-      <graphic xml:id="SenatoTerra_32_02" url="/imgs/Delibera/SenatoTerra_32_02.jpg"/>
+      <graphic xml:id="SenatoTerra_32_01" url="/imgs/SenatoTerra_32_01.jpg"/>
+      <graphic xml:id="SenatoTerra_32_02" url="/imgs/SenatoTerra_32_02.jpg"/>
     </surface>
   </facsimile>
   <text>
