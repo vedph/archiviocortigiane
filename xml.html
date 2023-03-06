@@ -35,23 +35,9 @@ layout: page
     document.getElementById("TEI").innerHTML = "";
     document.getElementById("TEI").appendChild(data);
 
-    function basename(img) {
-      const parts = img.split("/");
-      return parts[parts.length - 1];
-    }
-
     const images = [];
     imageURLs.forEach(img => images.push({
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dharound.world/iiif/2/" + basename(img),
-              "height": 8176,
-              "width": 6128,
-              "profile": [ "http://iiif.io/api/image/2/level2.json" ],
-              "protocol": "http://iiif.io/api/image",
-              "tiles": [{
-                "scaleFactors": [ 1, 2, 4, 8, 16, 32 ],
-                "width": 1024
-              }]
+              "type": "image", "url": "{{site.baseurl}}/" + img,
          }));
 
     OpenSeadragon({
