@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="lat">Resolution of the 21th of February 1543, Venice</title>
+        <respStmt>
+          <resp>TEI encoding curated by</resp>
+          <name>Eleonora Zordan, Tiziana Mancinelli, Federico Boschetti</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Università Ca' Foscari di Venezia, VeDPH</publisher>
+        <date>February 2023</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed
+            under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Deliberazione_SenatoTerra_32_125">
+          <msIdentifier>
+            <country>Italia</country>
+            <institution>Archivio di Stato di Venezia, ASV</institution>
+            <collection>Senato Terra, Registri</collection>
+            <idno type="shelfmark">Registro 32, carta 125.</idno>
+            <msName>Delibera del 21 febbraio 1543, Venezia</msName>
+          </msIdentifier>
+          <msContents class="#deliberazioni">
+            <summary>
+              <p><date type="lawDate" when="1564-08-10">21 February 1543</date>.<placeName
+                  type="willPlace" ref="https://www.wikidata.org/wiki/Q641">Venice</placeName>.</p>
+              <p><rs type="magistrate" ref="https://www.wikidata.org/wiki/Q767590">In Venetian
+                  Senate </rs></p>
+              <p><rs type="magistrate">Provveditori alle Pompe</rs></p>
+            </summary>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support> </support>
+                <extent>
+                  <measure unit="pages" quantity="1"> The resolution is contained in the Registri
+                    (Senato, Terra). It consists of one folio (125r-125v.)</measure>
+                  <dimensions type="lawPage" unit="cm">
+                    <height>30</height>
+                    <width>19,5</width>
+                  </dimensions></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <provenance>
+              <rs type="magistrate" ref="https://www.wikidata.org/wiki/Q767590">Venetian Senate,
+                also known as Consiglio dei Pregadi</rs>
+            </provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="resolutionDate" when="1543-02-21">21 February 1543</date>
+      </creation>
+      <langUsage>
+        <language ident="it">italiano</language>
+      </langUsage>
+    </profileDesc>
+    <xenoData>
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+        <skos:Concept rdf:about="http://id.loc.gov/authorities/subjects/sh85142737">
+          <skos:prefLabel>Venezia</skos:prefLabel>
+        </skos:Concept>
+        <skos:Concept rdf:about="http://id.loc.gov/authorities/subject/sh85123070">
+          <skos:prefLabel>XVI secolo</skos:prefLabel>
+        </skos:Concept>
+        <skos:Concept rdf:about="http://id.loc.gov/authorities/subjects/sh85033561">
+          <skos:prefLabel>Cortigiane</skos:prefLabel>
+        </skos:Concept>
+        <skos:Concept rdf:about="http://id.loc.gov/authorities/subjects/sh85113154">
+          <skos:prefLabel>Delibere</skos:prefLabel>
+        </skos:Concept>
+      </rdf:RDF>
+    </xenoData>
+  </teiHeader>
+  <facsimile>
+    <surface type="it">
+      <graphic xml:id="SenatoTerra_32_01" url="/imgs/Delibera/SenatoTerra_32_01.jpg"/>
+      <graphic xml:id="SenatoTerra_32_02" url="/imgs/Delibera/SenatoTerra_32_02.jpg"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div>
+        <head><title><date when="1543-02-21">MDXXXXII (more veneto). Die XXI Februarij. In</date>
+            <name type="magistrate" ref="https://www.wikidata.org/wiki/Q767590"
+            >Pregadi</name>.</title></head>
+        <ab>Ser <rs type="person">Aloysius Basadonna</rs></ab>
+        <ab>Ser <rs type="person">Petrus Georgio</rs></ab>
+        <ab>Ser <rs type="person">Joannes Aloysius Baduario</rs></ab>
+        <ab><name type="magistrate">Provisores super Pompis.</name></ab>
+        <note n="1" anchored="true">I provveditori sopra le Pompe vengono istituiti nel 1514 per
+          controllare l'eccessivo lusso della popolazione veneziana.</note>
+
+        <ab> Sono accresciute in tanto excessivo numero le meretrice in questa nostra citta, quale
+          post posta ogni erubesentia et vergogna publicamente vano per le strade et chiese, et
+          altrove si ben ornate et vestite, che molte volte le nobele et cittadine nostre per non
+          essere differente dal vestire dalle ditte sono non solum da li forestieri ma da li
+          habitanti non conosciute le bone dale triste, con cativo et malissimo essempio di quelle
+          li stanno in stantia et che le vedeno et con non poca sussuratione et scandolo de ogni
+          uno, al che per far cosa grata allo eterno Idio dovendosi provedere et in quella parte si₁
+          possa obviar al mal exempio et scandoli et₁₁ remediar alle excessive spese le fano in sui
+          vestimenti et ornamenti di casa. L’andara parte, che confermando in tutto et per tutto le
+          parte prese cerca il vestir de le donne et l’hornamenti di casa, sia pervisto che alcuna
+          meretrice in₁ questa terra habitante non possi vestir, ne in alcuna parte de₁ la persona
+          portar oro, arzento et seda, eccetto che le sfufie qual siano de seda pra, non possi
+          portar₁ cadenelle, perle ne anelli cum piera o senza ne alle rechie o dove excogitar si
+          possi tal che in tutto a le ditte siano devedate l’oro e l’arzento et seda, et etiam
+            <milestone unit="carta" n="125r"/>
+        </ab>
+        <ab>l’uso dele zoie di qualunque sorte si in casa come fuora di casa et fora di quest nostra
+          citta. Non possino tenir fornimenti de casa devedadi per le parte et piu non possino₁
+          haver fornimenti di seda, ne razi, spaliere over spaliere over banchali ne Cuori di₁
+          qualunque sorte, ma solamente panni Bergamaschi, over Bressani non possino far destagi
+          sopraditti panni, maschietti, sotto pena a quelle contra farano in alcuna parte de perder
+          le robe et de ducati, cento per cadauna volta, la mitta della qual sia dell’acusador
+          insieme con le robbe prohibite, et sia tenuto de secreto, et de l’altra mitta sia data la
+          mitta ad Pias causas come alli Proveditori sorpa le pompe, parera e l’altra mitta al
+          Nodaro et ministri dell’officio: et se saranno fanti o femine che siano o schiavi o
+          scritte che accusasse, siano et intender se debbano liberi, et per l’officio ditto sia
+          fatta la carta di sua liberta et habia la taia preditta: et quelle che contrafarano et non
+          haverano da pagar integralmente star debino mesi sei in preson serate et siano bandite di
+          questa citta per anni dui qual se possino recuperar con li ducati cento₁ sopraditti. Et
+          per meglio poter far la exegutione possino ditti Proveditori far retinir le ditte et in
+          casa propria et dove se attroverano, et possino cometter tal execution a tutti li
+          capitanei quali per tal causa siano tenuti exeguir quanto per ditti nostri Proveditori li
+          sara circa ciò commesso in₁ scriptis et non altramente. Quelle veramente se intendino
+          meretrice quale non essendo maritate haverano comertio et praticha con uno over piu
+          homeni. Se intendino etiam meretrice quelle che havendo marito non habitano con₁ sui
+          mariti, ma stano separate et habino comercio con uno over piu homeni.</ab>
+        <ab>La esecution della presente parte sia commessa alli <rs type="magistrate"> Proveditori
+            sopra le Pompe</rs>, quali debino far osservar inviolabilmente ne li possi far gratia
+          sotto pena de ducati cento da esserli tolta per li <rs type="magistrate"
+            ref="https://www.wikidata.org/wiki/Q88205852">Avogadori</rs> nostri et li Proveditori
+          sopra la corettion di costumi senza altro conseglio, et de privativa di questo Consiglio
+          per il tempo starano nell’officio: et la presente parte sia proclamada su le scalle
+            de<placeName ref="https://www.wikidata.org/wiki/Q172988"> san Marco </placeName>et de
+            <placeName>Rialto</placeName> ad intelligentia di tutti.</ab>
+        <ab>De parte ..... 133 - De non .... 33 - Non sincere ...... 6 <milestone unit="carta"
+            n="125v"/></ab>
+      </div>
+    </body>
+  </text>
+</TEI>

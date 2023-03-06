@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="ita">Veronica Franco's first will, 10 August 1564</title>
+                <respStmt>
+                    <resp>TEI encoding curated by</resp>
+                    <name>Eleonora Zordan, Tiziana Mancinelli, Federico Boschetti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Università Ca' Foscari di Venezia, VeDPH</publisher>
+                <date>February 2023</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US"
+                        >Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported
+                        License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="Testamento1_VeronicaFranco">
+                    <msIdentifier>
+                        <country>Italia</country>
+                        <institution>Archivio di Stato di Venezia</institution>
+                        <collection>Notarile, Testamenti</collection>
+                        <idno type="shelfmark">busta 1019, numero 806.</idno>
+                        <msName>Testamento di Veronica Franco (10 agosto 1564)</msName>
+                    </msIdentifier>
+                    <msContents class="#testamenti">
+                        <summary>
+                            <p><date type="willDate" when="1564-08-10">10 agosto 1564</date>.
+                                    <placeName type="willPlace"
+                                    ref="https://www.wikidata.org/wiki/Q641"
+                                >Venezia</placeName>.</p>
+                            <p><term type="willType">Nuncupative will</term> di <persName
+                                    ref="https://www.wikidata.org/wiki/Q257493"
+                                        ><forename>Veronica</forename>
+                                    <surname>Franco</surname></persName>, scritto in vista del primo
+                                parto.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure unit="pages" quantity="4"> The original analogue will
+                                        is composed of 4 pages, one of them is a blank page. </measure>
+                                    <dimensions type="willPage" unit="cm">
+                                        <height>30</height>
+                                        <width>19,5</width>
+                                    </dimensions></extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <provenance> Notarial deeds of <rs type="person" role="notaio">Anton Maria
+                                Vincenti</rs>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date type="willDate" when="1564-08-10">10 agosto 1564</date>
+            </creation>
+            <langUsage>
+                <language ident="it">italiano</language>
+            </langUsage>
+        </profileDesc>
+        <xenoData>
+            <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+                <skos:Concept rdf:about="http://id.loc.gov/authorities/subjects/sh85142737">
+                    <skos:prefLabel>Venezia</skos:prefLabel>
+                </skos:Concept>
+                <skos:Concept rdf:about="http://id.loc.gov/authorities/subject/sh85123070">
+                    <skos:prefLabel>XVI secolo</skos:prefLabel>
+                </skos:Concept>
+                <skos:Concept rdf:about="http://id.loc.gov/authorities/subjects/sh85033561">
+                    <skos:prefLabel>Cortigiane</skos:prefLabel>
+                </skos:Concept>
+                <skos:Concept rdf:about="http://id.loc.gov/authorities/subjects/sh2002006563">
+                    <skos:prefLabel>Testamento</skos:prefLabel>
+                </skos:Concept>
+            </rdf:RDF>
+        </xenoData>
+    </teiHeader>
+    <facsimile>
+        <surface type="it">
+            <graphic xml:id="VF_Will_1_1" url="/imgs/VF_Will_1_1.jpg"/>
+            <graphic xml:id="VF_Will_1_2" url="/imgs/VF_Will_1_2.jpg"/>
+            <graphic xml:id="VF_Will_1_3" url="/imgs/VF_Will_1_3.jpg"/>
+            <graphic xml:id="VF_Will_1_4" url="/imgs/VF_Will_1_4.jpg"/>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <title>Testamento di <rs type="person"
+                            ref="https://www.wikidata.org/wiki/Q257493">Veronica Franco</rs> 10
+                        Agosto 1564, negli atti del notajo <rs type="person" role="notaio">Anton
+                            Maria di Vincenti.</rs></title>
+                </head>
+                <ab>In nomine <choice>
+                        <abbr>D. ni</abbr>
+                        <expan>D<ex>ei Etern</ex>i</expan>
+                    </choice> Amen. Anno ab Incarnatione <choice>
+                        <abbr>D.ni</abbr>
+                        <expan>D<ex>omi</ex>ni</expan>
+                    </choice>nostri Jesu Cristi <date when="1564-08-10">1564, Indictione VII die
+                        vero X. mo mensis</date>
+                    <choice>
+                        <abbr>Aug.</abbr>
+                        <expan>Aug<ex>usti</ex></expan>
+                    </choice>. Considerando Io <rs type="person"
+                        ref="https://www.wikidata.org/wiki/Q257493">Veronica Francha</rs>, fiola di <choice>
+                        <abbr>m.</abbr>
+                        <expan>m<ex>esser</ex></expan>
+                    </choice><rs type="person">Francesco Francho</rs>, e de <choice>
+                        <abbr>m.</abbr>
+                        <expan>m<ex>adona</ex></expan>
+                    </choice>
+                    <rs type="person">Paola Fracassa</rs>, li pericoli de <choice>
+                        <abbr>q.sta</abbr>
+                        <expan>q<ex>ue</ex>sta</expan>
+                    </choice>
+                    <choice>
+                        <abbr>n.a</abbr>
+                        <expan>n<ex>ostr</ex>a</expan>
+                    </choice> fragile vita, retrovandomi maxime graveda, ma sana di mente e e
+                    intelletto, et anche del corpo, per gratia del sgnor Dio, Volendo ordinari li
+                    fatti miei, ho fatto chiamar e venir a mi a casa, in contrà de <placeName
+                        ref="https://www.wikidata.org/wiki/Q690779">S. Marcilian</placeName>,
+                            <persName><rs type="person" role="notaio">Antonio Maria di
+                        Vincenti</rs></persName>, nodaro di Venetia, e quello ho pregato che scriva
+                    q.sto mio testo. Et prima recomando l'anima mia a <choice>
+                        <abbr>m.</abbr>
+                        <expan>m<ex>esser</ex></expan>
+                    </choice> Jesu Cristo e alla sua madre sempre verzene <choice>
+                        <abbr>m.</abbr>
+                        <expan>m<ex>adonna</ex></expan>
+                    </choice>
+                    <choice>
+                        <abbr>S.</abbr>
+                        <expan>S<ex>an</ex>ta</expan>
+                    </choice> Maria, e a tutta la Corte del cielo. Voglio per miei comissari <choice>
+                        <abbr>m.</abbr>
+                        <expan>m<ex>esser</ex></expan>
+                    </choice><rs type="person">Pietro di Gozzi Rhaguseo</rs> , e <choice>
+                        <abbr>m.</abbr>
+                        <expan>m<ex>esser</ex></expan>
+                    </choice>
+                    <rs type="person">Anzolo di Benedetti</rs>, li quali prego vogliano accettar la
+                    mia Comissaria, e fedelmente adempir quanto qui sotto ordinerò. Voglio <choice>
+                        <abbr>p.</abbr>
+                        <expan>p<ex>er</ex></expan>
+                    </choice> l'anima mia sia fatte dir le messe de la madona e de S. Gregorio, e
+                    spepulta a <placeName ref="https://www.wikidata.org/wiki/Q946542">S. Francesco
+                        de la Vigna</placeName> col vestito del ordene de la madona, in cataletto
+                    nudo, con quella sorte de spesa che parerà alli miei comissari. Lasso che sia
+                    dato diese ducati alla fia de la nena de mio fradel <rs type="name"
+                    >Horatio</rs>, la qual nome Agnesina, ogni volta che la farà fede de esser
+                    maridata, e altri diese a Zenevra fiola de <choice>
+                        <abbr>d.a</abbr>
+                        <expan>d<ex>onn</ex>a</expan>
+                    </choice><rs type="person">Magdalena</rs> , ogni volta che el piovan de
+                        <placeName ref="https://www.wikidata.org/wiki/Q690779">S.
+                        Marcilian</placeName> farà fede la sia maridata. Voglio che tutto quello che
+                    me ritrovo al mondo, e tutto quello me potesse avegnir, così mobel come stabile,
+                    di dietro e di fuora, sia de mio fio, over fia che nasceranno de mi. Lasso a <choice>
+                        <abbr>m.</abbr>
+                        <expan>m<ex>esser</ex></expan>
+                    </choice>
+                    <choice>
+                        <abbr>Jac.mo</abbr>
+                        <expan>Jac<ex>o</ex>mo</expan>
+                    </choice> de <rs type="person">Baballi</rs> el figliuolo, over figliuola che
+                    nasceranno de mi come a suo padre, sia o non sia, Signor Dio scia il tutto, che
+                    prima ad honor de Dio, e per l'amorevoleza che son stata fra nui, il debba
+                    governar come a lui piacerà. Io voglio che i miei comissai formi uno aventario,
+                    e una memoria de tutto el mio, e li darai sia dati in ma de m. <choice>
+                        <abbr>Jac.mo</abbr>
+                        <expan>Jac<ex>o</ex>mo</expan>
+                    </choice> de Baballi, e a rason de 5 per cento del detto in <choice>
+                        <abbr>Jac.mo</abbr>
+                        <expan>Jac<ex>o</ex>mo</expan>
+                    </choice> debba far ch'ogni anno moltiplica el mio cavedal a beneficio de mio
+                    fio, over fia che saranno, in fina che saranno ottimi. Io voglio sia sotto
+                    comissaria se sarà un mascolo. </ab>
+                <milestone unit="carta" n="1v"/>
+                <ab>Io voglio quando el sarà ottimo che <choice>
+                        <abbr>m.</abbr>
+                        <expan>m<ex>esser</ex></expan>
+                    </choice>
+                    <choice>
+                        <abbr>Jac.mo</abbr>
+                        <expan>Jac<ex>o</ex>mo</expan>
+                    </choice> debba investir tutto quello se ritrova del mio cavedal in mercantia,
+                    over in quello che a lui m. Jacomo parerà. Io voglio che mio fio si contenta de
+                    tutto quello che a <choice>
+                        <abbr>m.</abbr>
+                        <expan>m<ex>esser</ex></expan>
+                    </choice>
+                    <choice>
+                        <abbr>Jac.mo</abbr>
+                        <expan>Jac<ex>o</ex>mo</expan>
+                    </choice> piaserà. E se sarà una fia, voglio che le sia dato tutto in dota il
+                    cavedale, et il pro che si ritroverano a quel tempo. Voglio no la se possa
+                    maridar senza licentia de <choice>
+                        <abbr>m.</abbr>
+                        <expan>m<ex>esser</ex></expan>
+                    </choice>
+                    <choice>
+                        <abbr>Jac.mo</abbr>
+                        <expan>Jac<ex>o</ex>mo</expan>
+                    </choice>. Caso che mio fio, over fia, che nascerano, venisse a morte tempo che
+                    i fusse ottimi, io voglio chi i possa far tanto che a loro parerà de tuto el
+                    mio, e case che i venisse a morte avanti che i fusse ottimi, io voglio che tutto
+                    el mio che si ritroverà in ma de <choice>
+                        <abbr>m.</abbr>
+                        <expan>m<ex>esser</ex></expan>
+                    </choice>
+                    <choice>
+                        <abbr>Jac.mo</abbr>
+                        <expan>Jac<ex>o</ex>mo</expan>
+                    </choice> sia de mia madre, cioè il guadagno a rason de cinque per cento, e che
+                    mai la possa muover el cavedal, nè muoverlo mai de man de <choice>
+                        <abbr>m.</abbr>
+                        <expan>m<ex>esser</ex></expan>
+                    </choice>
+                    <choice>
+                        <abbr>Jac.mo</abbr>
+                        <expan>Jac<ex>o</ex>mo</expan>
+                    </choice>, e caso chel deto <choice>
+                        <abbr>m.</abbr>
+                        <expan>m<ex>esser</ex></expan>
+                    </choice>
+                    <choice>
+                        <abbr>Jac.mo</abbr>
+                        <expan>Jac<ex>o</ex>mo</expan>
+                    </choice> de <rs type="person">Babali</rs> no lo volesse più tener, over venisse
+                    a morte, over andasse fuora, io lasso sto incargo alli miei Comissari, che
+                    debbano investir, e dar ogni anno a mia madre il pro che si caverano de detti
+                    danari per sostegno del suo viver in fin che la viverà, e che dopo la sua morte
+                    la li possa lassar a chi le piacerà, cioè de miei fratelli <rs type="person"
+                        >Hieronimo</rs>, <rs type="person">Oratio</rs>, e <rs type="person"
+                        >Seraphin</rs>, e cussi vada de herede in herede, e caso che mia madre
+                    venisse a morte, e che avanti morisse miei fratelli tutti tre, non havendo
+                    fioli, vadino a loro, e se no i havesse fioli, io voglio che, dapoi la morte de
+                    mia madre, che tutto il mio cavedal sia ballotado per i sie guardiani delle
+                    Schuole Grandi, et sia maridade tante fie donzelle per l'anima mia a venticinque
+                    ducati per una, a quelle che haveranno piu ballotte, in fino al numero che
+                    importerà el mio cavedal. La mia dota io voglio che mia madre se la possa far
+                    dar a mio marido <choice>
+                        <abbr>m.</abbr>
+                        <expan>m<ex>esser</ex></expan>
+                    </choice>
+                    <rs type="person">Paolo Paniza</rs>, e far quel <milestone unit="carta" n="2v"
+                    /></ab>
+                <ab>tanto che a lei piacerà, come quella che a me l'ha data. Lasso a <choice>
+                        <abbr>m.</abbr>
+                        <expan>m<ex>esser</ex></expan>
+                    </choice>
+                    <choice>
+                        <abbr>Jac.mo</abbr>
+                        <expan>Jac<ex>o</ex>mo</expan>
+                    </choice> de <rs type="person">Baballi</rs> el mio diamante per segno de
+                    amorevolezza. <choice>
+                        <abbr>Inter.</abbr>
+                        <expan>Inter<ex>ogata</ex>ta</expan>
+                    </choice> de' hospedali e loci pii Rispondo che no voio ordenar altro. Io <choice>
+                        <abbr>Jac.mo</abbr>
+                        <expan>Jac<ex>o</ex>mo</expan>
+                    </choice> Solian <choice>
+                        <abbr>q.</abbr>
+                        <expan>q<ex>uondam</ex></expan>
+                    </choice>
+                    <rs type="person">Agostin da Bersello</rs> sensaro in <placeName
+                        ref="https://www.wikidata.org/wiki/Q1190585">Rialto</placeName> fui
+                    testimonio pregado et zurado di questo testamento, et cognoscho la ditta
+                    testatrize. Io <rs type="person">Fausto Bettano</rs> da i orzinovi stampator in
+                    Venetia alla di Scotti fui testimonio pregato et giurato di questo
+                    testamento.</ab>
+            </div>
+        </body>
+    </text>
+</TEI>

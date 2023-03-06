@@ -1,0 +1,426 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title xml:lang="lat">Veronica Franco's trial, 1580</title>
+                                <respStmt>
+                                        <resp>TEI encoding by</resp>
+                                        <name>Eleonora Zordan, Tiziana Mancinelli, Federico
+                                                Boschetti</name>
+                                </respStmt>
+                        </titleStmt>
+                        <publicationStmt>
+                                <publisher>Università Ca' Foscari di Venezia, VeDPH</publisher>
+                                <date>February 2023</date>
+                                <availability>
+                                        <licence
+                                                target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US"
+                                                >Distributed under a Creative Commons
+                                                Attribution-NonCommercial 3.0 Unported
+                                                License</licence>
+                                </availability>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc xml:id="Processo_VeronicaFranco">
+                                        <msIdentifier>
+                                                <country>Italia</country>
+                                                <institution>Archivio di Stato di Venezia,
+                                                  ASV</institution>
+                                                <collection>Savi all'eresia</collection>
+                                                <idno type="shelfmark">Busta 46, numero 52.</idno>
+                                                <msName>Franco Veronica, Processo, 3° October
+                                                  1580</msName>
+                                        </msIdentifier>
+                                        <msContents class="#deliberazioni">
+                                                <summary>
+                                                  <p><date type="lawDate" when="1580-10-03">3
+                                                  October 1580</date>.<placeName
+                                                  ref="https://www.wikidata.org/wiki/Q641"
+                                                  >Venice</placeName>.</p>
+                                                  <p><rs type="magistrate"
+                                                  ref="https://www.wikidata.org/wiki/Q767590">In
+                                                  Venetian Senate </rs></p>
+                                                  <p><rs type="magistrate">Provveditori alle
+                                                  Pompe</rs></p>
+                                                </summary>
+                                        </msContents>
+                                        <physDesc>
+                                                <objectDesc>
+                                                  <supportDesc>
+                                                  <support> </support>
+                                                  <extent>
+                                                  <measure unit="pages" quantity="1"> The trial is
+                                                  contained in the fond of Sant' Uffizio (Savi
+                                                  all'eresia). It consists of 16 unnumbered
+                                                  folios</measure>
+                                                  <dimensions type="lawPage" unit="cm">
+                                                  <height>30</height>
+                                                  <width>19,5</width>
+                                                  </dimensions></extent>
+                                                  </supportDesc>
+                                                </objectDesc>
+                                        </physDesc>
+                                        <history>
+                                                <provenance>
+                                                  <rs type="magistrate"
+                                                  ref="https://asve.arianna4.cloud/entita/05b95b9b-ffe0-4426-a53f-a1fb68d3c125/Savi%20all'eresia%20%28Santo%20Ufficio%29/informazioni"
+                                                  >Venetian inquisition also known as Savi
+                                                  all'eresia or Sant'Uffizio</rs>
+                                                </provenance>
+                                        </history>
+                                </msDesc>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <creation>
+                                <date type="resolutionDate" when="1580-10-03">3 October 1580</date>
+                        </creation>
+                        <langUsage>
+                                <language ident="it">italiano</language>
+                        </langUsage>
+                </profileDesc>
+                <xenoData>
+                        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                                xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+                                <skos:Concept
+                                        rdf:about="http://id.loc.gov/authorities/subjects/sh85142737">
+                                        <skos:prefLabel>Venezia</skos:prefLabel>
+                                </skos:Concept>
+                                <skos:Concept
+                                        rdf:about="http://id.loc.gov/authorities/subject/sh85123070">
+                                        <skos:prefLabel>XVI secolo</skos:prefLabel>
+                                </skos:Concept>
+                                <skos:Concept
+                                        rdf:about="http://id.loc.gov/authorities/subjects/sh85033561">
+                                        <skos:prefLabel>Cortigiane</skos:prefLabel>
+                                </skos:Concept>
+                                <skos:Concept
+                                        rdf:about="https://id.loc.gov/authorities/subjects/sh89005242.html">
+                                        <skos:prefLabel>Processi</skos:prefLabel>
+                                </skos:Concept>
+                        </rdf:RDF>
+                </xenoData>
+        </teiHeader>
+        <facsimile>
+                <surface type="it">
+                        <graphic xml:id="vf_trial_00" url="imgs/Processo/vf_trial_00.jpg"/>
+                        <graphic xml:id="vf_trial_01" url="imgs/Processo/vf_trial_01.jpg"/>
+                        <graphic xml:id="vf_trial_02" url="imgs/Processo/vf_trial_02.jpg"/>
+                        <graphic xml:id="vf_trial_03" url="imgs/Processo/vf_trial_03.jpg"/>
+                        <graphic xml:id="vf_trial_04" url="imgs/Processo/vf_trial_04.jpg"/>
+                        <graphic xml:id="vf_trial_05" url="imgs/Processo/vf_trial_05.jpg"/>
+                        <graphic xml:id="vf_trial_06" url="imgs/Processo/vf_trial_06.jpg"/>
+                        <graphic xml:id="vf_trial_07" url="imgs/Processo/vf_trial_07.jpg"/>
+                        <graphic xml:id="vf_trial_08" url="imgs/Processo/vf_trial_08.jpg"/>
+                        <graphic xml:id="vf_trial_09" url="imgs/Processo/vf_trial_09.jpg"/>
+                        <graphic xml:id="vf_trial_10" url="imgs/Processo/vf_trial_10.jpg"/>
+                        <graphic xml:id="vf_trial_11" url="imgs/Processo/vf_trial_11.jpg"/>
+                        <graphic xml:id="vf_trial_12" url="imgs/Processo/vf_trial_12.jpg"/>
+                        <graphic xml:id="vf_trial_13" url="imgs/Processo/vf_trial_13.jpg"/>
+                        <graphic xml:id="vf_trial_14" url="imgs/Processo/vf_trial_14.jpg"/>
+                        <graphic xml:id="vf_trial_15" url="imgs/Processo/vf_trial_15.jpg"/>
+                        <graphic xml:id="vf_trial_16" url="imgs/Processo/vf_trial_16.jpg"/>
+                        <graphic xml:id="vf_trial_17" url="imgs/Processo/vf_trial_17.jpg"/>
+                        <graphic xml:id="vf_trial_18" url="imgs/Processo/vf_trial_18.jpg"/>
+                        <graphic xml:id="vf_trial_19" url="imgs/Processo/vf_trial_19.jpg"/>
+                        <graphic xml:id="vf_trial_20" url="imgs/Processo/vf_trial_20.jpg"/>
+                        <graphic xml:id="vf_trial_21" url="imgs/Processo/vf_trial_21.jpg"/>
+                        <graphic xml:id="vf_trial_22" url="imgs/Processo/vf_trial_22.jpg"/>
+                        <graphic xml:id="vf_trial_23" url="imgs/Processo/vf_trial_23.jpg"/>
+                        <graphic xml:id="vf_trial_24" url="imgs/Processo/vf_trial_24.jpg"/>
+                        <graphic xml:id="vf_trial_25" url="imgs/Processo/vf_trial_25.jpg"/>
+                        <graphic xml:id="vf_trial_26" url="imgs/Processo/vf_trial_26.jpg"/>
+                        <graphic xml:id="vf_trial_27" url="imgs/Processo/vf_trial_27.jpg"/>
+                        <graphic xml:id="vf_trial_28" url="imgs/Processo/vf_trial_28.jpg"/>
+                        <graphic xml:id="vf_trial_29" url="imgs/Processo/vf_trial_29.jpg"/>
+                        <graphic xml:id="vf_trial_30" url="imgs/Processo/vf_trial_30.jpg"/>
+                        <graphic xml:id="vf_trial_31" url="imgs/Processo/vf_trial_31.jpg"/>
+                        <graphic xml:id="vf_trial_32" url="imgs/Processo/vf_trial_32.jpg"/>
+                </surface>
+        </facsimile>
+        <text>
+                <body>
+                        <div>
+                                <head><title>Archivio di Stato di Venezia, S. Uffizio, b.
+                                        46</title></head>
+
+                                <ab> Die <date when="1580-10-03">3° mensis Octobris</date> contra
+                                        Veronica Francham</ab>
+                                <ab><s n="2">Io <rs type="person">Ridolfo Vannitelli</rs> per
+                                                discarico della mia conscienza, et non per altro
+                                                effetto do in notizia al <rs type="magistrate"
+                                                  >Santissimo Officio dell'Inquisitione</rs> come
+                                                una Veronica Franca publica meretrice havendo
+                                                l'altro giorno perso alcune sue robbe in casa, et
+                                                incolpando tutti quei che stavano nella sua casa,
+                                                tra i quali ero io Ridolfo sudeto, <rs type="person"
+                                                  >Giovanni Tedesco</rs>, sta col secretario
+                                                Frumenti, et una donna dimandata Bortola, sta in
+                                                  <placeName>calle di Ca' Cocco</placeName> nella
+                                                contrada di <placeName
+                                                  ref="https://www.wikidata.org/wiki/Q1813687"
+                                                >Santa Maria Formosa</placeName>, et non havendo testimonii a
+                                                proposito di ritrovare una paio di forbici con la
+                                                guaina d'argento et un officiolo dorato et altre
+                                                robbbe, le quali havea perso, ricorse all'incanti
+                                                delle donne soperstitiosi, et vani, et fece chiamare
+                                                una, che sta ivi vicino, con tre putti quattro
+                                                putte, et pigliò un anello benedetto, l'oliva
+                                                benedetta, l'acqua santa in detta <placeName
+                                                  ref="https://www.wikidata.org/wiki/Q155225">Chiesa
+                                                  di S. Giovanni</placeName>, et cannele benedette,
+                                                et una inghisiera piena di acqua, et cominciò a far
+                                                detti incanti con invocatione di demoni, et altri
+                                                nomi, dando scandolo a tutti di credere a quelle
+                                                cose, alle quali ella credeva fermamente, dicendo
+                                                che li putti e putte dicevano videre chi le havea
+                                                havuti. Di là a certi giorni, io, non potendo
+                                                sopportare tali cose oppostimi, andai fuora et
+                                                ritrovai detto officiolo in mano di un libraro in
+                                                Merzaria, per questo prego le <choice>
+                                                  <abbr>SS.</abbr>
+                                                  <expan>S<ex>ignorie</ex></expan>
+                                                </choice><choice>
+                                                  <abbr>VV.</abbr>
+                                                  <expan>V<ex>ostre</ex></expan>
+                                                </choice>
+                                                <choice>
+                                                  <abbr>Rev.me</abbr>
+                                                  <expan>Rev<ex>erendissi</ex>me</expan>
+                                                </choice> debbano gastigare, et far gastigare detta
+                                                  <rs type="person"
+                                                  ref="https://www.wikidata.org/wiki/Q257493"
+                                                  >Veronica Franca</rs>, e gli altri, che sono
+                                                intravenuti a far detti incanti e vocationi di
+                                                demonii, secondo comandano le sacre e divine leggi
+                                                sopra di ciò fatte, acciò vada in essempio di tutte
+                                                l'altre persone, perchè, non gastigandosi questa
+                                                fattuchiara, puttana publica et barra, molti si
+                                                metteriano a far simili cose contra la santa e
+                                                catholica fede. Di piu, fa lei ridutti fi giuochi
+                                                prohibiti, cioè di carte, et vi usa la maggior
+                                                diligenza che sia possibile, e sa fare molte
+                                                vigliaccherie in tutte sorte di giuochi, et, quando
+                                                ha vinciuto i danari, ne dona la buona mano a chi vi
+                                                è presente, acciò non publichi dette su
+                                                furfanterie.</s>
+                                </ab>
+                                <ab>Ella non va mai a messa, come si può provare per tutta la
+                                        contrada, et per il parrocchiano di detta Chiesa, il quale
+                                        non può affirmare che da due mesi in qua et mezo, che io
+                                        sono stato in casa sua, sia mai andata ad ascoltare messa,
+                                        ma sempre attende a detti giuochi, et altri negotii
+                                        dishonesti et illiciti con gli huomini e ti suoi inamorati,
+                                        ma in vero ha ella troppo grande aiuto in questa Città, et è
+                                        favorita da molti, da i quali vorrebbe essere odiata, però
+                                        vi scongiuro, et supplico che non subito, acciò non infetti
+                                        più questa Città, la quale per sua causa mi dubito che non
+                                        habbia da incorrere in qualche grandissimo pericolo, et
+                                        quel, che merita lei, non faccia venirlo sopra li
+                                        innocenti.</ab>
+                                <ab> Dice di esser maritata hora, hora essere vedova, hora volersi
+                                        maritare, et finge tra l'altri un matrimonio falsamente
+                                        fatto qui con uno Romano, et ciò ha fatto solo per
+                                        ricuperare perle, le maniglie d'oro, et altre gioie, ch'ella
+                                        portava contra la dispositione della parte fatta dal <choice>
+                                                <abbr>Ser.mo</abbr>
+                                                <expan>Ser<ex>enissi</ex>mo</expan>
+                                        </choice>Ser.mo Principe.</ab>
+
+                                <ab>Io <rs type="person">Juanne Wendelino Todesco</rs>, affermo
+                                        quanto de supra se cuntiene sì come più appieno depunerò
+                                        quando serò chiamato.</ab>
+
+                                <ab>Vi si aggiunge all'informazione contra Veronica Franca, che ha
+                                        fatto alcune altre invocationi di demonii per fare inamorare
+                                        di lei alcuni Tedeschi, che praticavano in sua casa, sicome
+                                        apparerà per testimonianza del Bozzo, che fa tabernacoli a
+                                        oro, sta in calle delle Acque sopra la spetiaria in detta
+                                        contrada. Che mangia carne, e il venere, et il sabato, et
+                                        altre vigilie lo sa Constantino et Lucretia greghetta, sta
+                                        dirimpetto a detta Veronica.</ab>
+                                <ab>Che habbia fatte invocationi di demonii, et cercati i putti per
+                                        farle lo sa Pre Vincenzo primo prete di <placeName
+                                                ref="https://www.wikidata.org/wiki/Q3585345"/>S.
+                                        Giovanni Novo.</ab>
+                                <ab>Et l'acqua benedetta, et cannela benedetta, et palma benedetta
+                                        la portò Acchille, suo figliuolo, et questo ancora sa Checco
+                                        luganegher.</ab>
+                                <ab>Aggiungo di più come detta Veronica Franca il giorno di venere
+                                        (tra 'l dì et la notte giocando con due giovani a carte)
+                                        mangiò la carne, et Checco luganiaro glie la tagliò, e portò
+                                        in tavola. </ab>
+                                <ab> E molte altre volte di detto dì si metteva a letto, e fingendo
+                                        d'essere malata si faceva comprare i pollastri, et se li
+                                        faceva apparecchiare da Bortola cosa, e poi se li
+                                        mangiava.</ab>
+                                <ab> Die Sabbati 8 mensis Octobris 1580, assistentibus Clarissimis
+                                        Dominis <rs type="person">Jacopo Fuscareno</rs> Doctore et
+                                                <rs type="person">Dominico de Priolis</rs></ab>
+                                <ab> Coram Illustrissimis et Reverendissimis Dominis Alberto
+                                        Bologneto Legato Apostolico et Joanne Trivisano Patriarcha
+                                        Venetiarum constituta Veronica Franha, filia quondam
+                                        Francisci, et eidem delato iuramento de veritate dicenda, et
+                                        primo</ab>
+                                <ab><hi rend="italic">interrogata </hi> se lei alcuna volta per
+                                        saper qualche secreto o ritrova qualche cosa ha fatto far
+                                        alcune orationi a putte vergene et guardar nella inghistara
+                                        piena d'aqua, e in che modo, et quando, el alla presentia de
+                                        chi, et per che causa, respondit: Signor sì, l'latro giorno,
+                                        per ritrovar un paro de forfette con la vazina d'argento et
+                                        il mio officio, alla presentia de la madre de quelli tre, do
+                                        putini maschi et una puttina femena, el nome de la qual non
+                                        ve so dir, ma è moglie de un sartor, et tien putti a
+                                        schuola, et puttine, et sta arente de mi a <placeName>S.
+                                                Zuane Nuovo</placeName>, et anche alla presentia de
+                                        Redolfo, maistro del mio putto; il qual Redolfo, vedendo
+                                        ch'io non voleva farlo, perchè diceva che queste cose erano
+                                        bagatelle, si ghettò in genochioni con le man giunte
+                                        pregandome ch'io dovesse far veder, aciò si potesse ritrova
+                                        ladri; et ella presentia di un mio servitor thodesco, che
+                                        non mi ricordo el suo nome, ma adesso sta col secretario
+                                                Formento.<hi rend="italic">Dicens postea</hi>: Me
+                                        ricordo che ha un nome Joanne. Et la madre de questi puttini
+                                        predetta tolse una inghistera piena de aqua et ghe messe un
+                                        puocho de aqua santa dentro, et la messe in t'un bacil,
+                                        questa inghistera, et ghe messe sotto la sua vera benedeta,
+                                        con la qual era stata sposata, et sopra dela inghistera ci
+                                        messe doi foglie o rame dell'oliva benedetta apiciata per
+                                        uno in man, et a queste pute quella dona ghe insegnò che
+                                        dovessero dire, et gli fece dir: "Anzolo Santo, Anzolo
+                                        Biancho, per la tua santità et per la mia verzinità mostrame
+                                        el vero et la verità. Chi ha tolto tal cosa", cioè forfette
+                                        et l'officio. Et così intrevenne che quei putti vene fuora
+                                        et non sapevano dir quel che havevano visto, chi diceva una
+                                        cosa chi un'altra, et io ghe deti da marenda et li mandai
+                                        via. Et tuti comenzorno a esser contra de mi, cioè messer
+                                        Redolfo et li altri, che io era matta a non creder queste
+                                        cose. Subdens: Quando io era puttina piccola con quella
+                                        medesma oratione et tre paternostri et 3 ave marie, de più
+                                        guardando in una inghistera, vidi che mio padre robbava una
+                                        cappa a mia madre. Et è vero che mio padre l'haveva robbà,
+                                        che lo confessò dapoi. </ab>
+                                <ab><hi rend="italic">Ei dictum </hi> che, havendo lei aconsentito a
+                                        le sopradette cose, non si può scusare che non habia
+                                        partecipato in questo peccato et errore, poichè,
+                                        intravenendoci l'aqua benedetta, oliva benedetta, candele
+                                        benedette, l'uso de quali non deve esser in cose simili ma
+                                        solo ad honor de Dio, però questo peccato è specie di
+                                        heresia né si può remerrer o perdonare se il peccator non
+                                        ricognosse el suo errore, essendo fatto maxime con oratione,
+                                        però dica quello intende.</ab>
+                                <ab><hi rend="italic">Respondit</hi> Io credo che quel Anzolo
+                                        Biancho volesse dir el diavolo perchè anco qua a Venezia si
+                                        chiama biancho il sarasino et ne son pentida et ne dimando
+                                        perdono alle Vostre Signorie Illustrissime. Et se bene ho
+                                        peccato con l'effetto non ho peccato con l'affetto per che
+                                        non ci ho creduto. </ab>
+                                <ab><hi rend="italic">Ei dictum </hi>che sapendo lei o almeno
+                                        dovendo saper che le dette cose benedette non se dovevano
+                                        adoperare in simil cose, et sapendo che se intendeva per
+                                        l'angelo biancho il diavolo lei se non ci credeva non doveva
+                                        intervenirci né permetter che altri lo facesse in casa
+                                        sua.</ab>
+                                <ab><hi rend="italic">Respondit</hi> Io fui presente per la causa
+                                        che ho ditto de sopra et cognosco haver errato et voi
+                                        domando perdono.</ab>
+                                <ab><hi rend="italic">Ei dictum</hi> se essa ha fatto alcuna altra
+                                        invocatione di demoni e fatto fare per far inamorar di sé
+                                        alcuni et particularmente thodeschi.</ab>
+                                <ab><hi rend="italic">Respondit</hi> Signor no, Dio me ne guardi et
+                                        la Madona; sono la piu timida dona del mondo di demonii et
+                                        di morti.</ab>
+                                <ab><hi rend="italic">Ei dictum</hi> se de venere e sabbado et altre
+                                        vigilie ha magnato carne.</ab>
+                                <ab><hi rend="italic">Respondit</hi> Mai né de Venere né de sabbado
+                                        ne de vigilie né in zorni prohibiti ho manzato simil
+                                        cose.</ab>
+                                <ab><hi rend="italic">Ei dictum et exortata</hi> a confessar la
+                                        verità per che consta in processo che lei una sera di venere
+                                        alle due hore de notte in circa doppo haver giochato alle
+                                        carte con doi giovani mangiò carne et ve sono testimoni che
+                                        la portò in tavola et che la tagliò et che dal puto istesso
+                                        se vide che a quel tempo lei non era amalata.</ab>
+                                <ab><hi rend="italic">Respondit</hi> non saver mai d'haverne magnata
+                                        ne zuogato et se pur ghene havessi magnato chi mi nol so me
+                                        si dia el tempo che proverò che haveva necessità di
+                                        magnarla, è grande anche che, se la non fosse sta grande non
+                                        havaria magnata.</ab>
+                                <ab><hi rend="italic">Ei dictum</hi> che da le cose confessate da
+                                        lei di sopra nell'altro examine in materia d'haver fatto far
+                                        l'incanto dell'inghistata lei non si può schusare che non
+                                        credesse in quel punto, poi che confessà che mentre era
+                                        putta lei stessa fece tal cosa et che dala sua vista si
+                                        trovò che veramente era fatto sì come lei haveva visto. Et
+                                        che alli giorni passati essendo lei patrona di casa ha fatto
+                                        far el medesimo experimento ne la schusa la importunità dei
+                                        servitori essendo lei patrona et quella che haveva perso le
+                                        robbe del cui interesse si trattava. Però si exorta a dir la
+                                        verità.</ab>
+                                <ab><hi rend="italic">Respondit</hi> io non ghe credeva perché el
+                                        diavolo per una volta che dica la verità per cento volte
+                                        dice la busia et quel che ho fatto l'ho fatto da sdegno dele
+                                        parole che haveva perso cosa alcua ma che fenzeva per non
+                                        ghe dar el suo salario. Et di più <rs type="person"
+                                                >Redolpho</rs> precettor di mio figliol qual mi ha
+                                        querelada me se ghettò in zinochioni pregandomi ch'io
+                                        dovesse lassar guardar aciò se vedesse che era triste in
+                                        casa mia. Io ghe risposi che queste bagatelle non farà veder
+                                        questa verità ma la corda dei Signori de Notte senza tante
+                                        candelle troverà la verità et così me partì et andì in
+                                        camera a lassar far quel che i volse, né io fui presente
+                                        quando si fece la experientia. È ben chiaro che alle volte
+                                        mi chiamavano et io ghe andava perché mi dicevano "Aldì
+                                        signora, i putti han ditto così". Et perché un dei putti
+                                        haveva magnato quella matina un pocho de panne, ma che la
+                                        cosa se feria l'altra matina. Et io li mandai in malhora. È
+                                        ben vero che io a questa dona ghe diede l'inghistara l'aqua
+                                        benedetta, l'olivo benedetto ch'io haveva in camera mia le
+                                        cadelle io li mandai a comprare per un ragazzo. </ab>
+                                <ab><hi rend="italic">Ei dictum</hi> che le cose presente non la
+                                        excusa poichè essa perché s facesse tal experientia in casa
+                                        sua et per suo interesse ha subministrato alla ditta donna
+                                        aqua benedetta, olivo benedetto sapendo che non s'havevano a
+                                        adoperare in mal uso et nella invocatione del demonio et
+                                        perciò sola questa partecipatione et subministratione
+                                        quantunque fosse vera la importunità della sua servitù non
+                                        la schusa che non sia colpevole et rea. </ab>
+                                <ab><hi rend="italic">Respondit</hi> quando che la madre dei putti
+                                        me diceva "I putti vede non so chi", per farla capace dela
+                                        sua ignorantia la menai dove erano i putti et ghe fece
+                                        vedere che quel che i vedeva era loro medesimi perché i
+                                        erano l'un pper mezo dell'altro.</ab>
+                                <ab><hi rend="italic">Ei dictum</hi>de novo che le dette cose non la
+                                        schusano havendo lei confessato dele cose benedette come di
+                                        sopra.</ab>
+                                <ab><hi rend="italic">Respondit</hi> io ho errato, ne domando
+                                        perdono et son parecchiata a farmi far ogni penitentia.</ab>
+                                <ab><hi rend="italic">Ei dictum</hi> chi fosse presente quando el
+                                        detto Redolpho se inzenochiò a farve la detta
+                                        instantia.</ab>
+                                <ab><hi rend="italic">Respondit</hi>
+                                        <rs type="person">Zuanne Thodesco</rs> che ora sta col
+                                        Formento et la madre de questi putti et tuti i putti. </ab>
+                                <ab><hi rend="italic">Subdens ex se</hi> una dona che è qua di fuora
+                                        che è vincentina che trema di mano la qual moglie di uno che
+                                        è in priggion per questo santo officio mi ha detto che in
+                                        questa città è una donna chiamata la greca che ha una testa
+                                        di morto in un bacile la qual la bagna con l'aqua santa et
+                                        che gli fa alcuni orationi et che fa venir un udro di aqua
+                                        in camera et che versa tanta aqua che le persone non puol
+                                        star in camera che bisgna che si tirano a largo. </ab>
+                                <ab><hi rend="italic">Interrogata</hi>se ha alcuno malevolo o
+                                        inimico et chi et per che causa.</ab>
+                                <ab><hi rend="italic">Respondit</hi> non cognosco il maggior inimici
+                                        et massara di casa che me robbano, et specialmente <rs
+                                                type="person">Redolpho</rs> e una dona borthola
+                                        massera gravia la qual ho fatto convinzer dala iusticia che
+                                        me ha tolto quelle forfette che erano tanto politte che
+                                        valevano 4 o 5 schudi. Et io non so de altri inimici. Ho un
+                                        sotto di me, che ha nome <rs type="person">Checo</rs>
+                                        luganigher, el qual me serve qualche volta in tavola el qual
+                                        non me è inimico ch'io sappia.</ab>
+                        </div>
+                </body>
+        </text>
+</TEI>

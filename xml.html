@@ -1,0 +1,65 @@
+---
+layout: page
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col" id="TEI">
+      Sadly, this page will not work in Internet Explorer and some older browsers. We suggest you use a newer version of Chrome or Firefox.
+    </div>
+    <div class="col" id="IIIF">
+    </div>
+  </div>
+</div>
+
+<script src="{{site.baseurl}}/CETEI/CETEI.js"></script>
+
+<script>
+  const url = new URL(window.location).search.slice(1);
+  var CETEIcean = new CETEI();
+  const imageURLs = [];
+  CETEIcean.addBehaviors({"tei":{
+   "graphic": function(elt) {
+     imageURLs.push(elt.getAttribute('url'));
+   },
+   "pb": function(elt) {
+    const elm = document.createElement("p");
+    elm.setAttribute("class", "pageBreak");
+    elm.innerText = `- ${elt.getAttribute("n")} -`;
+    elm.setAttribute("style", "color: red");
+    return elm;
+   },
+  }});
+
+  CETEIcean.getHTML5("{{site.baseurl}}/" + url, function(data) {
+    document.getElementById("TEI").innerHTML = "";
+    document.getElementById("TEI").appendChild(data);
+
+    function basename(img) {
+      const parts = img.split("/");
+      return parts[parts.length - 1];
+    }
+
+    const images = [];
+    imageURLs.forEach(img => images.push({
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dharound.world/iiif/2/" + basename(img),
+              "height": 8176,
+              "width": 6128,
+              "profile": [ "http://iiif.io/api/image/2/level2.json" ],
+              "protocol": "http://iiif.io/api/image",
+              "tiles": [{
+                "scaleFactors": [ 1, 2, 4, 8, 16, 32 ],
+                "width": 1024
+              }]
+         }));
+
+    OpenSeadragon({
+      id: "IIIF",
+      prefixUrl: "https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/images/",
+      tileSources: images,
+      sequenceMode: true,
+    });
+
+  });
+</script>
