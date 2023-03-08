@@ -1,7 +1,7 @@
 # Reshaping the figure of the Courtesan in a digital archive: a feminist case study on Veronica Franco
 # A prototype
 
-This repository contains the documentation regarding the prototype realised for my MA's Degree dissertation in Digital &amp; Public Humanities. 
+This repository contains the documentation regarding the prototype realised for a MA's Degree dissertation in Digital &amp; Public Humanities. This is just the beginning!
 
 # The aim
 
